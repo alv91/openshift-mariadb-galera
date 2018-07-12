@@ -108,7 +108,7 @@ $ kubectl delete pv datadir-mysql-0 datadir-mysql-1 datadir-mysql-2
 
 ## Building
 ```bash
-$ git clone https://github.com/adfinis-sygroup/openshift-mariadb-galera
+$ git clone https://github.com/alv91/openshift-mariadb-galera
 $ cd k8s-mariadb-galera-centos
 $ make
 ```
