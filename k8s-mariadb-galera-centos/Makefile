@@ -1,5 +1,5 @@
-IMAGE_NAME=adfinissygroup/k8s-mariadb-galera-centos
-IMAGE_VERSION=v004
+IMAGE_NAME=alv91/mariadb-openshift39
+IMAGE_VERSION=v1
 LOCAL_REGISTRY=localhost:5000
 
 image:
