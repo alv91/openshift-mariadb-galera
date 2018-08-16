@@ -75,7 +75,7 @@ objects:
       spec:
         containers:
         - name: "${GALERA_PETSET_NAME}"
-          image: alv91/mariadb-openshift39:v1
+          image: alv91/openshift-mariadb-galera:latest
           imagePullPolicy: IfNotPresent
           ports:
           - containerPort: 3306
