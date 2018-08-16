@@ -1,5 +1,5 @@
-IMAGE_NAME=alv91/mariadb-openshift39
-IMAGE_VERSION=v1
+IMAGE_NAME=alv91/openshift-mariadb-galera
+IMAGE_VERSION=latest
 LOCAL_REGISTRY=localhost:5000
 
 image:
